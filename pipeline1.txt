@@ -3,7 +3,7 @@ agent any
  stages{
  stage('one'){
  steps{
- echo 'hi,this is prakhar parekar'
+ echo 'hi,this is rajni rajput'
  }
  }
  stage('two')
